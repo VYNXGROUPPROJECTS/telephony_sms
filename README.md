@@ -1,5 +1,6 @@
-
-
+# Auto Fill OTP Telephony Package For Vynx Group Connect Chatting Appication
+# SMS OTP Package for reading inbox messages for OTPs
+# Front End 
 # Telephony
 
 ## We create this fork because the [original package](https://github.com/shounakmulay/Telephony) is not maintained anymore. We will try to keep this package up to date with the latest Flutter version.
