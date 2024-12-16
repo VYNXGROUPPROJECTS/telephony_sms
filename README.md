@@ -1,3 +1,4 @@
+VYNX GROUP CONNECT PACKAGE FOR READING OTP SMS 
 # Auto Fill OTP Telephony Package For Vynx Group Connect Chatting Appication
 # SMS OTP Package for reading inbox messages for OTPs
 # Front End 
